@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+@media only screen and (max-width: 1199px)
+{
+    #scrollToTopBtn{
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 767px)
+{
+    #scrollToTopBtn{
+        width: 30px;
+        height: 30px;
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 479px)
+{
+    .profile-pic{
+        width: 30px;
+		height: 30px;
+    }
+}

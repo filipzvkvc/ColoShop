@@ -1,0 +1,27 @@
+.sidebar-link {
+    color:rgb(0, 0, 0);
+    transition: all 0.2s ease;
+    border-radius: 8px;
+    margin: 4px 16px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.sidebar-link:hover {
+    color: #000000;
+    background: #f2f2f2;;
+    transform: translateX(5px);
+}
+
+/* .sidebar-link.active {
+    color: #fe4c50;
+    background: rgba(255, 255, 255, 0.1);
+} */
+ 
+.logoutButton{
+	margin-top: 55px;
+}
+
+.active{
+    color: #fe4c50 !important;
+}

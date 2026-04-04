@@ -1,0 +1,2 @@
+php_value display_errors Off
+php_value date.timezone America/Los_Angeles
